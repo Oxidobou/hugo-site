@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mon site perso</title>
+    <link>http://localhost:1313/index.xml</link>
+    <description>Recent content on Mon site perso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>© 2016 Copyright Text</copyright>
+    <lastBuildDate>Wed, 09 Nov 2016 22:59:53 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>seo top</title>
+      <link>http://localhost:1313/post/seo-top/</link>
+      <pubDate>Wed, 09 Nov 2016 22:59:53 +0100</pubDate>
+      
+      <guid>http://localhost:1313/post/seo-top/</guid>
+      <description>&lt;p&gt;Je fais mon premier post mouahahah&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>http://localhost:1313/pages/test/</link>
+      <pubDate>Wed, 09 Nov 2016 22:38:20 +0100</pubDate>
+      
+      <guid>http://localhost:1313/pages/test/</guid>
+      <description>&lt;p&gt;test test test&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 09 Nov 2016 21:37:07 +0100</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;tes test test&lt;/p&gt;
+
+&lt;p&gt;bl bkf&lt;/p&gt;
+
+&lt;p&gt;bdjb&lt;/p&gt;
+
+&lt;p&gt;bfjbfj&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
