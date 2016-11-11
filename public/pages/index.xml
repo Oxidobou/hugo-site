@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages-rsses on Mon site perso</title>
-    <link>http://localhost:1313/pages/index.xml</link>
+    <link>http://auditor-rat-40867.netlify.com/pages/index.xml</link>
     <description>Recent content in Pages-rsses on Mon site perso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>© 2016 Copyright Text</copyright>
     <lastBuildDate>Wed, 09 Nov 2016 22:38:20 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://auditor-rat-40867.netlify.com/pages/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>test</title>
-      <link>http://localhost:1313/pages/test/</link>
+      <link>http://auditor-rat-40867.netlify.com/pages/test/</link>
       <pubDate>Wed, 09 Nov 2016 22:38:20 +0100</pubDate>
       
-      <guid>http://localhost:1313/pages/test/</guid>
+      <guid>http://auditor-rat-40867.netlify.com/pages/test/</guid>
       <description>&lt;p&gt;test test test&lt;/p&gt;
 </description>
     </item>
