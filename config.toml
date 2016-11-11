@@ -1,5 +1,5 @@
 languageCode = "fr-fr"
-baseurl = "http://localhost:1313/"
+baseurl = "http://auditor-rat-40867.netlify.com/"
 title = "Mon site perso"
 
 theme="amp"
